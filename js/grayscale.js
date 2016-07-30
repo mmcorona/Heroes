@@ -63,7 +63,7 @@ function init() {
             "featureType": "water",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#0CE45D"
             }, {
                 "lightness": 17
             }]
@@ -71,7 +71,7 @@ function init() {
             "featureType": "landscape",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#0CE45D"
             }, {
                 "lightness": 20
             }]
@@ -79,7 +79,7 @@ function init() {
             "featureType": "road.highway",
             "elementType": "geometry.fill",
             "stylers": [{
-                "color": "#000000"
+                "color": "#0500F2"
             }, {
                 "lightness": 17
             }]
@@ -87,7 +87,7 @@ function init() {
             "featureType": "road.highway",
             "elementType": "geometry.stroke",
             "stylers": [{
-                "color": "#000000"
+                "color": "#0500F2"
             }, {
                 "lightness": 29
             }, {
@@ -97,7 +97,7 @@ function init() {
             "featureType": "road.arterial",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#0500F2"
             }, {
                 "lightness": 18
             }]
@@ -105,7 +105,7 @@ function init() {
             "featureType": "road.local",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#0500F2"
             }, {
                 "lightness": 16
             }]
@@ -113,7 +113,7 @@ function init() {
             "featureType": "poi",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#0CE45D"
             }, {
                 "lightness": 21
             }]
@@ -131,20 +131,20 @@ function init() {
             "stylers": [{
                 "saturation": 36
             }, {
-                "color": "#000000"
+                "color": "#DB0B57"
             }, {
                 "lightness": 40
             }]
         }, {
             "elementType": "labels.icon",
             "stylers": [{
-                "visibility": "off"
+                "visibility": "on"
             }]
         }, {
             "featureType": "transit",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#3BF325"
             }, {
                 "lightness": 19
             }]
@@ -152,7 +152,7 @@ function init() {
             "featureType": "administrative",
             "elementType": "geometry.fill",
             "stylers": [{
-                "color": "#000000"
+                "color": "#3BF325"
             }, {
                 "lightness": 20
             }]
