@@ -71,15 +71,15 @@ function init() {
             "featureType": "landscape",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#0CE45D"
+                "color": "#000000"
             }, {
-                "lightness": 20
+                "lightness": 10
             }]
         }, {
             "featureType": "road.highway",
             "elementType": "geometry.fill",
             "stylers": [{
-                "color": "#0500F2"
+                "color": "#08008b"
             }, {
                 "lightness": 17
             }]
@@ -87,7 +87,7 @@ function init() {
             "featureType": "road.highway",
             "elementType": "geometry.stroke",
             "stylers": [{
-                "color": "#0500F2"
+                "color": "#A10EEC"
             }, {
                 "lightness": 29
             }, {
@@ -97,7 +97,7 @@ function init() {
             "featureType": "road.arterial",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#0500F2"
+                "color": "#08008b"
             }, {
                 "lightness": 18
             }]
@@ -105,7 +105,7 @@ function init() {
             "featureType": "road.local",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#0500F2"
+                "color": "#08008b"
             }, {
                 "lightness": 16
             }]
@@ -113,7 +113,7 @@ function init() {
             "featureType": "poi",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#0CE45D"
+                "color": "#99FC20"
             }, {
                 "lightness": 21
             }]
@@ -131,7 +131,7 @@ function init() {
             "stylers": [{
                 "saturation": 36
             }, {
-                "color": "#DB0B57"
+                "color": "#FFF001"
             }, {
                 "lightness": 40
             }]
